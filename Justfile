@@ -1,7 +1,7 @@
 library := "kepler16/gx.cljc"
 version := "$VERSION"
 assets_dir := ".kbuild/output/github/release/assets/"
-maven_server := "github-kepler"
+maven_server := "github-bdigital"
 
 default:
     just --list
